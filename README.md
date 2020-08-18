@@ -6,3 +6,4 @@ sessionID获取方式：
 打开抓包软件（例如Fiddler）进行抓包，  
 在电脑微信上打开武理健康填报小程序，  
 在第一个POST请求中得到的json文件中可以得到sessionID。  
+记得在main.py中修改自己的地址  

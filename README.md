@@ -1,5 +1,4 @@
 # HealthReport
-Help post WHUT health report  
 自动完成武汉理工大学微信小程序健康填报  
 需要在main.py中写入你的sessionID  
 sessionID获取方式：  
